@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alexpodgorny.com/sitemap.xml
+Sitemap: https://alexpodgorny.fr/sitemap.xml
